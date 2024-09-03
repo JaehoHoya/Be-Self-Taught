@@ -10,8 +10,7 @@ Be-Self-Taught :혼자 스스로 공부하거나 독학한 것
 <img width="477" alt="스크린샷 2024-09-03 오전 11 31 04" src="https://github.com/user-attachments/assets/6e026311-b22b-41ab-b7c3-2d7386ded826">
 <img width="396" alt="스크린샷 2024-09-03 오전 11 31 12" src="https://github.com/user-attachments/assets/16850598-5ccb-4011-a958-19d3cb5559e0">
 # 카카오 토큰값 받아오기 
-<img width="626" alt="스크린샷 2024-09-03 오전 11 44 47" src="https://github.com/user-attachments/assets/fff6b561-f7cd-48e7-9626-75964790971a">
-
+<img width="626" alt="스크린샷 2024-09-03 오전 11 44 47" src="https://github.com/user-attachments/assets/d48a861b-d8b0-4939-bb47-312c58498692">
 
 프로젝트 임시 DDL 보관소 
 
